@@ -2,6 +2,8 @@
 
 Second completed project of the 100-day CSS challenge.
 
+Day two project aims to create an animated hamburger menu
+
 https://100dayscss.com/days/1/
 
 ## Result 🚀  
